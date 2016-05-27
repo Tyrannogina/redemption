@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="ES-ES">
+        <seg>&lt;t0/&gt;¿C&lt;t1/&gt;ó&lt;t2/&gt;mo te encuentras?</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T180953Z" creationid="Kalitro" creationdate="20160527T180953Z">
+        <seg>How are you feeling?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>&lt;t12/&gt;En el siglo XIX la gente se moría&lt;t13/&gt; por un simple resfriado.</seg>
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T180157Z" creationid="Kalitro" creationdate="20160527T180157Z">
@@ -70,6 +78,22 @@
     </tu>
     <tu>
       <tuv lang="ES-ES">
+        <seg>Dilo, n&lt;t0/&gt;o te cortes.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T180851Z" creationid="Kalitro" creationdate="20160527T180851Z">
+        <seg>Don't get shy, spill it!.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>Dilo.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T180907Z" creationid="Kalitro" creationdate="20160527T180828Z">
+        <seg>Spill it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>Está bien.</seg>
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T174210Z" creationid="Kalitro" creationdate="20160527T174210Z">
@@ -102,10 +126,26 @@
     </tu>
     <tu>
       <tuv lang="ES-ES">
+        <seg>Muy b&lt;t0/&gt;ien.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T181006Z" creationid="Kalitro" creationdate="20160527T181006Z">
+        <seg>Very good.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>NIÑA</seg>
       </tuv>
       <tuv lang="EN" changeid="IkanaPC" changedate="20160524T211423Z" creationid="IkanaPC" creationdate="20160524T211423Z">
         <seg>GIRL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>No, &lt;t0/&gt;lo que no quiero es que nuestra hija se convierta en una drogadicta como...</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T180822Z" creationid="Kalitro" creationdate="20160527T180822Z">
+        <seg>No, but I don't want her to be a drug addict like... forget it.</seg>
       </tuv>
     </tu>
     <tu>
@@ -158,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="ES-ES">
+        <seg>Será mejor que &lt;t0/&gt;me&lt;t1/&gt; lleve a &lt;t2/&gt;la niña &lt;t3/&gt;a dormir.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T180931Z" creationid="Kalitro" creationdate="20160527T180931Z">
+        <seg>I think I'd better take the girl to sleep.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>Si por ti fue&lt;t4/&gt;se todavía viviríamos en el&lt;t5/&gt; siglo XIX.</seg>
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T180121Z" creationid="Kalitro" creationdate="20160527T180121Z">
@@ -198,10 +246,26 @@
     </tu>
     <tu>
       <tuv lang="ES-ES">
+        <seg>Venga… Up!</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T180947Z" creationid="Kalitro" creationdate="20160527T180947Z">
+        <seg>Come on... Hop!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>Y así día tras día.</seg>
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T174856Z" creationid="Kalitro" creationdate="20160527T174856Z">
         <seg>And this is it, day after day.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>Y por favor, no hagas como si te supie&lt;t1/&gt;se&lt;t2/&gt; mal.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T180919Z" creationid="Kalitro" creationdate="20160527T180919Z">
+        <seg>And please, don't pretend that you feel bad about it.</seg>
       </tuv>
     </tu>
     <tu>
@@ -218,6 +282,14 @@
       </tuv>
       <tuv lang="EN" changeid="IkanaPC" changedate="20160524T211430Z" creationid="IkanaPC" creationdate="20160524T211430Z">
         <seg>Yeees!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>¿&lt;t0/&gt;Seguro que n&lt;t1/&gt;o te duele nada?</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T181014Z" creationid="Kalitro" creationdate="20160527T181014Z">
+        <seg>Are you sure? Nothing hurts you?</seg>
       </tuv>
     </tu>
     <tu>
