@@ -6,10 +6,26 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="ES-ES">
+        <seg>(Girándose y subiendo el tono) &lt;t0/&gt;¡&lt;t1/&gt;Me lo vas a &lt;t2/&gt;estar echando en cara&lt;t3/&gt; toda la vida!</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T222432Z" creationid="Kalitro" creationdate="20160527T222432Z">
+        <seg>Are you going to reproach me forever?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>&lt;t0/&gt;Est&lt;t1/&gt;oy bien.</seg>
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T183838Z" creationid="Kalitro" creationdate="20160527T183838Z">
         <seg>No. I am fine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>&lt;t0/&gt;Seguro que hoy no le has leído el cuento.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T222223Z" creationid="Kalitro" creationdate="20160527T222223Z">
+        <seg>I'm sure that you didn't read the tale to her tonight.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46,6 +62,30 @@
     </tu>
     <tu>
       <tuv lang="ES-ES">
+        <seg>&lt;t3/&gt;Y al final, siempre&lt;t4/&gt; te cansas.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T222356Z" creationid="Kalitro" creationdate="20160527T222356Z">
+        <seg>But in the end, you always get tired.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>&lt;t5/&gt;Te recuerdo que&lt;t6/&gt; fuiste tu quien decidiste prescindir de Sonia.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T222413Z" creationid="Kalitro" creationdate="20160527T222413Z">
+        <seg>I remind you that it was you who decided letting Sonia go.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>&lt;t6/&gt;Tan alejada de todo y&lt;t7/&gt; de todo&lt;t8/&gt;s&lt;t9/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T222315Z" creationid="Kalitro" creationdate="20160527T222315Z">
+        <seg>Far from everything and everyone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>&lt;t6/&gt;Ya está bien.</seg>
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T180127Z" creationid="Kalitro" creationdate="20160527T180127Z">
@@ -70,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="ES-ES">
+        <seg>Ahora toca dormir.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T222129Z" creationid="Kalitro" creationdate="20160527T222129Z">
+        <seg>Now is bed time.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>Ahórrate el sarcasmo, &lt;t0/&gt;Pau.</seg>
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T175943Z" creationid="Kalitro" creationdate="20160527T175943Z">
@@ -78,10 +126,26 @@
     </tu>
     <tu>
       <tuv lang="ES-ES">
+        <seg>Al principio todo &lt;t1/&gt;te parecía muy&lt;t2/&gt; bonito.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T222340Z" creationid="Kalitro" creationdate="20160527T222340Z">
+        <seg>At first everything seemed wonderful to you.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>Ay, Lis.&lt;t0/&gt; Hoy no &lt;t1/&gt;puedo&lt;t2/&gt;.</seg>
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T220931Z" creationid="Kalitro" creationdate="20160527T220931Z">
         <seg>Ah, Lis. Not today. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>Buenas noches.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T222156Z" creationid="Kalitro" creationdate="20160527T222156Z">
+        <seg>Good night.</seg>
       </tuv>
     </tu>
     <tu>
@@ -106,6 +170,14 @@
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T180907Z" creationid="Kalitro" creationdate="20160527T180828Z">
         <seg>Spill it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>Duerme bien.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T222143Z" creationid="Kalitro" creationdate="20160527T222143Z">
+        <seg>Sleep tight.</seg>
       </tuv>
     </tu>
     <tu>
@@ -158,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="ES-ES">
+        <seg>Me siento &lt;t0/&gt;muy &lt;t1/&gt;sola &lt;t2/&gt;aquí&lt;t3/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T222254Z" creationid="Kalitro" creationdate="20160527T222254Z">
+        <seg>I feel lonely here</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>Muy b&lt;t0/&gt;ien.</seg>
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T181006Z" creationid="Kalitro" creationdate="20160527T181006Z">
@@ -194,6 +274,14 @@
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T175900Z" creationid="Kalitro" creationdate="20160527T175900Z">
         <seg>No, but at night there's more risk of it getting higher.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>Oye, mira, s&lt;t0/&gt;iempre estás igual.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T222325Z" creationid="Kalitro" creationdate="20160527T222325Z">
+        <seg>You are always like that.</seg>
       </tuv>
     </tu>
     <tu>
@@ -326,6 +414,22 @@
     </tu>
     <tu>
       <tuv lang="ES-ES">
+        <seg>Y tú tampoco deberías beber tanto.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T222238Z" creationid="Kalitro" creationdate="20160527T222238Z">
+        <seg>And you you shouldn't drink that much.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>Ya no soporto &lt;t4/&gt;estar más tiempo&lt;t5/&gt; aquí.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T222306Z" creationid="Kalitro" creationdate="20160527T222306Z">
+        <seg>I can't stand living here anymore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>Ya… Pues es que hoy no puedo.</seg>
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T221020Z" creationid="Kalitro" creationdate="20160527T221020Z">
@@ -414,10 +518,26 @@
     </tu>
     <tu>
       <tuv lang="ES-ES">
+        <seg>¿Ya estás aquí?</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T222218Z" creationid="Kalitro" creationdate="20160527T222218Z">
+        <seg>Already here?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>¿Ya estás aquí?&lt;t0/&gt; Menos mal que hoy le ibas a &lt;t1/&gt;preparar tú&lt;t2/&gt; la cena...</seg>
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T174839Z" creationid="Kalitro" creationdate="20160527T174839Z">
         <seg>It was about time! It's a good thing that you were going to make her dinner tonight, right?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>¿Ya?</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T222148Z" creationid="Kalitro" creationdate="20160527T222148Z">
+        <seg>Already?</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
