@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="ES-ES">
+        <seg>La mujer de Pau Sintiempo que,&lt;t0/&gt;antaño&lt;t1/&gt; había sido la chica más alegre y bonita del lugar, se había convertido en una mujer esquiva y malcarada desde que los médicos le diagnosticar&lt;t2/&gt;o&lt;t3/&gt;n &lt;t4/&gt;l&lt;t5/&gt;a enfermedad de &lt;t6/&gt;tristeza, de &lt;t7/&gt;la que nada sabían, pero que no dudaban en tratar.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T174803Z" creationid="Kalitro" creationdate="20160527T174656Z">
+        <seg>Pau Outoftime's wife who, in past times had been the prettiest and most lively girl of the place, had become an elusive and grim woman from the moment the doctors had diagnosed her with the sadness illness, which they didn't know anything, but they didn't hesitate to treat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>NIÑA</seg>
       </tuv>
       <tuv lang="EN" changeid="IkanaPC" changedate="20160524T211423Z" creationid="IkanaPC" creationdate="20160524T211423Z">
@@ -70,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="ES-ES">
+        <seg>Se pasaba el día escribiendo sin parar para satisfacer las necesidades de sus lectores, desatendiendo las de sus seres &lt;t0/&gt;más &lt;t1/&gt;queridos.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T174626Z" creationid="Kalitro" creationdate="20160527T174626Z">
+        <seg>He spent his days writing non-stop, in order to fulfill his readers needs, neglecting the ones from his own loved ones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>Tenía todo lo que cualquiera pudiera desear, pero no lo sabía aprovechar.</seg>
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T174618Z" creationid="Kalitro" creationdate="20160527T174618Z">
@@ -82,6 +98,22 @@
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T174536Z" creationid="Kalitro" creationdate="20160527T174536Z">
         <seg> A day like any other, he decided to change the stress of the city for the peace of a rural life, where he, still, continued to suffer from stress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>Va, n&lt;t0/&gt;o empecemos...</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T174843Z" creationid="Kalitro" creationdate="20160527T174843Z">
+        <seg>Let's not get started...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>Y así día tras día.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T174856Z" creationid="Kalitro" creationdate="20160527T174856Z">
+        <seg>And this is it, day after day.</seg>
       </tuv>
     </tu>
     <tu>
@@ -106,6 +138,22 @@
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T173429Z" creationid="IkanaPC" creationdate="20160524T211418Z">
         <seg>Again?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>¿Tiene fiebre?</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T174912Z" creationid="Kalitro" creationdate="20160527T174912Z">
+        <seg>Is she feverish?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>¿Ya estás aquí?&lt;t0/&gt; Menos mal que hoy le ibas a &lt;t1/&gt;preparar tú&lt;t2/&gt; la cena...</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T174839Z" creationid="Kalitro" creationdate="20160527T174839Z">
+        <seg>It was about time! It's a good thing that you were going to make her dinner tonight, right?</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
