@@ -6,10 +6,58 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="ES-ES">
+        <seg>&lt;t2/&gt;Pero como a ti no te gusta vivir en&lt;t3/&gt; el progreso.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T180105Z" creationid="Kalitro" creationdate="20160527T180105Z">
+        <seg>But you don't like progress. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>&lt;t3/&gt;Ni que estuviese dándole arsénico&lt;t4/&gt;...</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T180024Z" creationid="Kalitro" creationdate="20160527T180024Z">
+        <seg>It's not like I was giving her arsenic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>&lt;t6/&gt;Ya está bien.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T180127Z" creationid="Kalitro" creationdate="20160527T180127Z">
+        <seg>That's enough.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>&lt;t7/&gt;¿&lt;t8/&gt;Pero &lt;t9/&gt;s&lt;t10/&gt;abes&lt;t11/&gt; una cosa?</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T180134Z" creationid="Kalitro" creationdate="20160527T180134Z">
+        <seg>But you know what?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>A ver, &lt;t0/&gt;¿&lt;t1/&gt;cómo empezaba…?</seg>
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T174232Z" creationid="Kalitro" creationdate="20160527T174232Z">
         <seg>Let's see...&lt;t0/&gt;&lt;t1/&gt;How did it started?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>Ahórrate el sarcasmo, &lt;t0/&gt;Pau.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T175943Z" creationid="Kalitro" creationdate="20160527T175943Z">
+        <seg>Keep the sarcasm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>Dalsy, Dalsy…&lt;t0/&gt; Ahora &lt;t1/&gt;la sarcástica&lt;t2/&gt; eres tú...</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T180043Z" creationid="Kalitro" creationdate="20160527T180043Z">
+        <seg>Dalsy, Dalsy…&lt;t0/&gt; Now the sarcastic one is you.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54,10 +102,26 @@
     </tu>
     <tu>
       <tuv lang="ES-ES">
+        <seg>No, pero &lt;t0/&gt;ya sabes que&lt;t1/&gt; por la noche &lt;t2/&gt;siempre &lt;t3/&gt;hay más posibilidades &lt;t4/&gt;de&lt;t5/&gt; que le suba.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T175900Z" creationid="Kalitro" creationdate="20160527T175900Z">
+        <seg>No, but at night there's more risk of it getting higher.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>Papá, c&lt;t0/&gt;uéntame la historia de Pau Sintiempo.</seg>
       </tuv>
       <tuv lang="EN" changeid="IkanaPC" changedate="20160524T211404Z" creationid="IkanaPC" creationdate="20160524T211404Z">
         <seg>&lt;t0/&gt;Dad, tell me the story of Pau Outoftime</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>Para eso hacen los medicamentos, &lt;t0/&gt;Pau&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T180054Z" creationid="Kalitro" creationdate="20160527T180054Z">
+        <seg>That's what medicins are made for, Pau.</seg>
       </tuv>
     </tu>
     <tu>
@@ -82,6 +146,22 @@
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T174626Z" creationid="Kalitro" creationdate="20160527T174626Z">
         <seg>He spent his days writing non-stop, in order to fulfill his readers needs, neglecting the ones from his own loved ones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>Si por ti fue&lt;t4/&gt;se todavía viviríamos en el&lt;t5/&gt; siglo XIX.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T180121Z" creationid="Kalitro" creationdate="20160527T180121Z">
+        <seg>If it were for you, we would still be in the 19th century.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>Sólamente &lt;t1/&gt;Dalsy&lt;t2/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T180005Z" creationid="Kalitro" creationdate="20160527T180005Z">
+        <seg>It's just Dalsy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -134,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="ES-ES">
+        <seg>¿Contra tu propi&lt;t1/&gt;a&lt;t2/&gt; hij&lt;t3/&gt;a, o qué&lt;t4/&gt;?</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T175931Z" creationid="Kalitro" creationdate="20160527T175931Z">
+        <seg>Against your own daughter?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>¿Otra vez?</seg>
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T173429Z" creationid="IkanaPC" creationdate="20160524T211418Z">
@@ -142,10 +230,26 @@
     </tu>
     <tu>
       <tuv lang="ES-ES">
+        <seg>¿Oye, q&lt;t0/&gt;ué es eso?</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T175915Z" creationid="Kalitro" creationdate="20160527T175915Z">
+        <seg>What's this?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>¿Tiene fiebre?</seg>
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T174912Z" creationid="Kalitro" creationdate="20160527T174912Z">
         <seg>Is she feverish?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>¿Una guerra preventiva?</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T175921Z" creationid="Kalitro" creationdate="20160527T175921Z">
+        <seg>A preemptive war?</seg>
       </tuv>
     </tu>
     <tu>
