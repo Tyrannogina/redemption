@@ -1,0 +1,14 @@
+5/24/16 11:26 PM
+Project Statistics
+
+                 	Segments	Words	Characters (without spaces)	Characters (including spaces)	#Files	
+Total:           	     287	 1397	                       6366	                         7427	     1	
+Remaining:       	     278	 1380	                       6283	                         7337	     1	
+Unique:          	     210	 1305	                       6065	                         7112	     1	
+Unique Remaining:	     205	 1292	                       6002	                         7042	     1	
+
+
+Individual File Statistics:
+
+File Name                            	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Unique Characters (without spaces)	Unique Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	Unique Characters (including spaces)	Unique Remaining Characters (including spaces)	
+Redención - Diálogos según audio.docx	           287	               278	            210	                      205	       1397	           1380	        1305	                  1292	                             6366	                                 6283	                              6065	                                        6002	                               7427	                                   7337	                                7112	                                          7042	
