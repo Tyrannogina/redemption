@@ -294,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="ES-ES">
+        <seg>¡¡El cuento!!</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T220859Z" creationid="Kalitro" creationdate="20160527T220859Z">
+        <seg>The tale!!!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>¿&lt;t0/&gt;Seguro que n&lt;t1/&gt;o te duele nada?</seg>
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T181014Z" creationid="Kalitro" creationdate="20160527T181014Z">
