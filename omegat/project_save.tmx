@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="ES-ES">
+        <seg>&lt;t0/&gt;Un marido ausente.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T222711Z" creationid="Kalitro" creationdate="20160527T222711Z">
+        <seg>An absent husband.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>&lt;t0/&gt;¿C&lt;t1/&gt;ó&lt;t2/&gt;mo te encuentras?</seg>
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T180953Z" creationid="Kalitro" creationdate="20160527T180953Z">
@@ -142,6 +150,22 @@
     </tu>
     <tu>
       <tuv lang="ES-ES">
+        <seg>Basta ya.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T222726Z" creationid="Kalitro" creationdate="20160527T222726Z">
+        <seg>Enough!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>Basta, ¿eh?</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T222737Z" creationid="Kalitro" creationdate="20160527T222737Z">
+        <seg>That's enough!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>Buenas noches.</seg>
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T222156Z" creationid="Kalitro" creationdate="20160527T222156Z">
@@ -206,6 +230,22 @@
     </tu>
     <tu>
       <tuv lang="ES-ES">
+        <seg>Hostia, recuerda que tienes una hija y un&lt;t0/&gt; marido, &lt;t1/&gt;¿de acuerdo?</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T222656Z" creationid="Kalitro" creationdate="20160527T222656Z">
+        <seg>Dammit! Remember that you have a daughter and a husband, right? </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>Ja ja.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T222703Z" creationid="Kalitro" creationdate="20160527T222703Z">
+        <seg>Ha ha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>La mujer de Pau Sintiempo que,&lt;t0/&gt;antaño&lt;t1/&gt; había sido la chica más alegre y bonita del lugar, se había convertido en una mujer esquiva y malcarada desde que los médicos le diagnosticar&lt;t2/&gt;o&lt;t3/&gt;n &lt;t4/&gt;l&lt;t5/&gt;a enfermedad de &lt;t6/&gt;tristeza, de &lt;t7/&gt;la que nada sabían, pero que no dudaban en tratar.</seg>
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T174803Z" creationid="Kalitro" creationdate="20160527T174656Z">
@@ -254,6 +294,22 @@
     </tu>
     <tu>
       <tuv lang="ES-ES">
+        <seg>No deberías beber tanto.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T222608Z" creationid="Kalitro" creationdate="20160527T222608Z">
+        <seg>You shouldn't drink that much.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>No sé, lo que a ti te parezca</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T222557Z" creationid="Kalitro" creationdate="20160527T222557Z">
+        <seg>I don't know. Whatever you can make of it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>No tengo tiempo.</seg>
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T220944Z" creationid="Kalitro" creationdate="20160527T220944Z">
@@ -282,6 +338,14 @@
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T222325Z" creationid="Kalitro" creationdate="20160527T222325Z">
         <seg>You are always like that.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>P&lt;t0/&gt;ues por lo menos estos cuadros que pinto, son lo ú&lt;t1/&gt;nico que me hace sentir viva.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T222641Z" creationid="Kalitro" creationdate="20160527T222641Z">
+        <seg>At least, these paints I paint are the only thing that makes me feel alive.</seg>
       </tuv>
     </tu>
     <tu>
@@ -322,6 +386,14 @@
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T221005Z" creationid="Kalitro" creationdate="20160527T221005Z">
         <seg>You aways say the same.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>Sabes que no me fiaba de ella y que Lis siempre estaba enferm&lt;t4/&gt;a&lt;t5/&gt;...</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T222446Z" creationid="Kalitro" creationdate="20160527T222446Z">
+        <seg> You know I didn't trust her. Lis was always sick...</seg>
       </tuv>
     </tu>
     <tu>
@@ -414,6 +486,14 @@
     </tu>
     <tu>
       <tuv lang="ES-ES">
+        <seg>Y tampoco&lt;t0/&gt; &lt;t1/&gt;deberías&lt;t2/&gt; pintar es&lt;t3/&gt;t&lt;t4/&gt;os cuadros que pintas, &lt;t5/&gt;te lo recuerdo&lt;t6/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T222622Z" creationid="Kalitro" creationdate="20160527T222622Z">
+        <seg>And you shouldn't paint that paintings neither, in case you don't remember.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>Y tú tampoco deberías beber tanto.</seg>
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T222238Z" creationid="Kalitro" creationdate="20160527T222238Z">
@@ -502,6 +582,14 @@
     </tu>
     <tu>
       <tuv lang="ES-ES">
+        <seg>¿Qué &lt;t0/&gt;estás insinuando&lt;t1/&gt;?</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T222510Z" creationid="Kalitro" creationdate="20160527T222510Z">
+        <seg>What are you impliying? </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>¿Tiene fiebre?</seg>
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T174912Z" creationid="Kalitro" creationdate="20160527T174912Z">
@@ -514,6 +602,14 @@
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T175921Z" creationid="Kalitro" creationdate="20160527T175921Z">
         <seg>A preemptive war?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>¿Y ahora no lo está?</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T222458Z" creationid="Kalitro" creationdate="20160527T222458Z">
+        <seg>And isn't she now?</seg>
       </tuv>
     </tu>
     <tu>
