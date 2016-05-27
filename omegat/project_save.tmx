@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="ES-ES">
+        <seg>Mañana te lo leo seguro, hum?</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T222115Z" creationid="Kalitro" creationdate="20160527T222115Z">
+        <seg>Tomorrow I'll read it to you, hmm?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>Mañana... ¿vale?</seg>
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T220952Z" creationid="Kalitro" creationdate="20160527T220952Z">
@@ -282,6 +290,14 @@
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T174843Z" creationid="Kalitro" creationdate="20160527T174843Z">
         <seg>Let's not get started...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>Venga.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T222120Z" creationid="Kalitro" creationdate="20160527T222120Z">
+        <seg>Come on.</seg>
       </tuv>
     </tu>
     <tu>
