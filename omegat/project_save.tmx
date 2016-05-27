@@ -30,6 +30,22 @@
     </tu>
     <tu>
       <tuv lang="ES-ES">
+        <seg>Pero si te la sabes de memoria...</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T173754Z" creationid="Kalitro" creationdate="20160527T173754Z">
+        <seg>But you already know it by heart...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>¡Por favor!</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T173811Z" creationid="Kalitro" creationdate="20160527T173811Z">
+        <seg>Please!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>¡Sííí!</seg>
       </tuv>
       <tuv lang="EN" changeid="IkanaPC" changedate="20160524T211430Z" creationid="IkanaPC" creationdate="20160524T211430Z">
