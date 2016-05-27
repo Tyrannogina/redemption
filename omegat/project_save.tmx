@@ -6,10 +6,34 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="ES-ES">
+        <seg>A ver, &lt;t0/&gt;¿&lt;t1/&gt;cómo empezaba…?</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T174232Z" creationid="Kalitro" creationdate="20160527T174232Z">
+        <seg>Let's see...&lt;t0/&gt;&lt;t1/&gt;How did it started?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>Está bien.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T174210Z" creationid="Kalitro" creationdate="20160527T174210Z">
+        <seg>Alright.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>HOMBRE</seg>
       </tuv>
       <tuv lang="EN" changeid="IkanaPC" changedate="20160524T211413Z" creationid="IkanaPC" creationdate="20160524T211413Z">
         <seg>MAN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>Había una vez un hombre que no sabía disfrutar de su tiempo libre ya que, de hecho, no tenía.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T174305Z" creationid="Kalitro" creationdate="20160527T174305Z">
+        <seg>Once upon a time, there was a man who didn't know how to enjoy his free time. Although in fact, he didn't have any.</seg>
       </tuv>
     </tu>
     <tu>
