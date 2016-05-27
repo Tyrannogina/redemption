@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="ES-ES">
+        <seg>Ay, Lis.&lt;t0/&gt; Hoy no &lt;t1/&gt;puedo&lt;t2/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T220931Z" creationid="Kalitro" creationdate="20160527T220931Z">
+        <seg>Ah, Lis. Not today. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>Dalsy, Dalsy…&lt;t0/&gt; Ahora &lt;t1/&gt;la sarcástica&lt;t2/&gt; eres tú...</seg>
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T180043Z" creationid="Kalitro" creationdate="20160527T180043Z">
@@ -134,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="ES-ES">
+        <seg>Mañana... ¿vale?</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T220952Z" creationid="Kalitro" creationdate="20160527T220952Z">
+        <seg>Tomorror... ok?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>Muy b&lt;t0/&gt;ien.</seg>
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T181006Z" creationid="Kalitro" creationdate="20160527T181006Z">
@@ -146,6 +162,14 @@
       </tuv>
       <tuv lang="EN" changeid="IkanaPC" changedate="20160524T211423Z" creationid="IkanaPC" creationdate="20160524T211423Z">
         <seg>GIRL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>No tengo tiempo.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T220944Z" creationid="Kalitro" creationdate="20160527T220944Z">
+        <seg>I have no time.</seg>
       </tuv>
     </tu>
     <tu>
@@ -194,6 +218,14 @@
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T173754Z" creationid="Kalitro" creationdate="20160527T173754Z">
         <seg>But you already know it by heart...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>S&lt;t0/&gt;i&lt;t1/&gt;empre di&lt;t2/&gt;ses&lt;t3/&gt; lo mismo...</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T221005Z" creationid="Kalitro" creationdate="20160527T221005Z">
+        <seg>You aways say the same.</seg>
       </tuv>
     </tu>
     <tu>
@@ -274,6 +306,14 @@
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T180919Z" creationid="Kalitro" creationdate="20160527T180919Z">
         <seg>And please, don't pretend that you feel bad about it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>Ya… Pues es que hoy no puedo.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T221020Z" creationid="Kalitro" creationdate="20160527T221020Z">
+        <seg>Well, I cannot do it tonight. </seg>
       </tuv>
     </tu>
     <tu>
