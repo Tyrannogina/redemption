@@ -54,10 +54,34 @@
     </tu>
     <tu>
       <tuv lang="ES-ES">
+        <seg>Pau Sintiempo, así le llamaban.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T174321Z" creationid="Kalitro" creationdate="20160527T174321Z">
+        <seg>Pau Outoftime was his name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>Pero si te la sabes de memoria...</seg>
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T173754Z" creationid="Kalitro" creationdate="20160527T173754Z">
         <seg>But you already know it by heart...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>Tenía todo lo que cualquiera pudiera desear, pero no lo sabía aprovechar.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T174618Z" creationid="Kalitro" creationdate="20160527T174618Z">
+        <seg>He had everything anyone could ever wish, but he couldn't make any of it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>Un buen día, decidió cambiar el estrés de la gran ciudad por el sosiego de la vida en el campo, donde, igualmente, se seguía estresando.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T174536Z" creationid="Kalitro" creationdate="20160527T174536Z">
+        <seg> A day like any other, he decided to change the stress of the city for the peace of a rural life, where he, still, continued to suffer from stress.</seg>
       </tuv>
     </tu>
     <tu>
