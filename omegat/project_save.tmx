@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="ES-ES">
+        <seg>&lt;t0/&gt;Paz… &lt;t1/&gt;Paz, tomas demasiados medicamentos y&lt;t2/&gt; no tod&lt;t3/&gt;o&lt;t4/&gt;s bajo prescripción médica, &lt;t5/&gt;tú lo sabes&lt;t6/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160527T222809Z" creationid="Kalitro" creationdate="20160527T222809Z">
+        <seg>Paz… Paz, you take too many pills and not all of them under medical prescription, and you know it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>&lt;t0/&gt;Seguro que hoy no le has leído el cuento.</seg>
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T222223Z" creationid="Kalitro" creationdate="20160527T222223Z">
