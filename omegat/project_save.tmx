@@ -216,8 +216,8 @@
       <tuv lang="ES-ES">
         <seg>Ahórrate el sarcasmo, &lt;t0/&gt;Pau.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Kalitro" changedate="20160527T175943Z" creationid="Kalitro" creationdate="20160527T175943Z">
-        <seg>Keep the sarcasm.</seg>
+      <tuv lang="EN" changeid="IkanaPC" changedate="20160528T153341Z" creationid="Kalitro" creationdate="20160527T175943Z">
+        <seg>Keep the sarcasm, Pau.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1312,8 +1312,8 @@
       <tuv lang="ES-ES">
         <seg>¿Una guerra preventiva?</seg>
       </tuv>
-      <tuv lang="EN" changeid="Kalitro" changedate="20160527T175921Z" creationid="Kalitro" creationdate="20160527T175921Z">
-        <seg>A preemptive war?</seg>
+      <tuv lang="EN" changeid="IkanaPC" changedate="20160528T153326Z" creationid="Kalitro" creationdate="20160527T175921Z">
+        <seg>A pre-emptive war?</seg>
       </tuv>
     </tu>
     <tu>
