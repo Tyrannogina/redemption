@@ -53,6 +53,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>Ika: I'm sure you didn't read the story to her</note>
       <tuv lang="ES-ES">
         <seg>&lt;t0/&gt;Seguro que hoy no le has leído el cuento.</seg>
       </tuv>
@@ -205,6 +206,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>Yo puse -It's time to sleep.</note>
       <tuv lang="ES-ES">
         <seg>Ahora toca dormir.</seg>
       </tuv>
@@ -382,6 +384,14 @@
     </tu>
     <tu>
       <tuv lang="ES-ES">
+        <seg>ESCENA 5 ESTUDIO PAZ-INTERIOR-NOCHE</seg>
+      </tuv>
+      <tuv lang="EN" changeid="IkanaPC" changedate="20160528T154444Z" creationid="IkanaPC" creationdate="20160528T154444Z">
+        <seg>SCENE 5 PAZ OFFICE-INTERIOR-NIGHT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>Entramos, ¿no?</seg>
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160528T141307Z" creationid="Kalitro" creationdate="20160528T141307Z">
@@ -480,8 +490,8 @@
       <tuv lang="ES-ES">
         <seg>Mañana te lo leo seguro, hum?</seg>
       </tuv>
-      <tuv lang="EN" changeid="Kalitro" changedate="20160527T222115Z" creationid="Kalitro" creationdate="20160527T222115Z">
-        <seg>Tomorrow I'll read it to you, hmm?</seg>
+      <tuv lang="EN" changeid="IkanaPC" changedate="20160528T154308Z" creationid="Kalitro" creationdate="20160527T222115Z">
+        <seg>I'll read it tomorrow, for sure, huh?</seg>
       </tuv>
     </tu>
     <tu>
@@ -985,8 +995,8 @@
       <tuv lang="ES-ES">
         <seg>Y tú tampoco deberías beber tanto.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Kalitro" changedate="20160527T222238Z" creationid="Kalitro" creationdate="20160527T222238Z">
-        <seg>And you you shouldn't drink that much.</seg>
+      <tuv lang="EN" changeid="IkanaPC" changedate="20160528T154557Z" creationid="Kalitro" creationdate="20160527T222238Z">
+        <seg>And you you shouldn't be drinking that much.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1329,8 +1339,8 @@
       <tuv lang="ES-ES">
         <seg>¿Ya estás aquí?</seg>
       </tuv>
-      <tuv lang="EN" changeid="Kalitro" changedate="20160527T222218Z" creationid="Kalitro" creationdate="20160527T222218Z">
-        <seg>Already here?</seg>
+      <tuv lang="EN" changeid="IkanaPC" changedate="20160528T154504Z" creationid="Kalitro" creationdate="20160527T222218Z">
+        <seg>You're already here?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1345,8 +1355,8 @@
       <tuv lang="ES-ES">
         <seg>¿Ya?</seg>
       </tuv>
-      <tuv lang="EN" changeid="Kalitro" changedate="20160527T222148Z" creationid="Kalitro" creationdate="20160527T222148Z">
-        <seg>Already?</seg>
+      <tuv lang="EN" changeid="IkanaPC" changedate="20160528T154413Z" creationid="Kalitro" creationdate="20160527T222148Z">
+        <seg>Ready?</seg>
       </tuv>
     </tu>
     <tu>
