@@ -408,8 +408,8 @@
       <tuv lang="ES-ES">
         <seg>Está bien.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Kalitro" changedate="20160527T174210Z" creationid="Kalitro" creationdate="20160527T174210Z">
-        <seg>Alright.</seg>
+      <tuv lang="EN" changeid="IkanaPC" changedate="20160528T151013Z" creationid="Kalitro" creationdate="20160527T174210Z">
+        <seg>Alright...</seg>
       </tuv>
     </tu>
     <tu>
@@ -760,8 +760,8 @@
       <tuv lang="ES-ES">
         <seg>Se pasaba el día escribiendo sin parar para satisfacer las necesidades de sus lectores, desatendiendo las de sus seres &lt;t0/&gt;más &lt;t1/&gt;queridos.</seg>
       </tuv>
-      <tuv lang="EN" changeid="IkanaPC" changedate="20160528T150734Z" creationid="Kalitro" creationdate="20160527T174626Z">
-        <seg>He spent his days writing non-stop, in order to fulfill his readers needs, neglecting the ones from his own loved ones.</seg>
+      <tuv lang="EN" changeid="IkanaPC" changedate="20160528T151059Z" creationid="Kalitro" creationdate="20160527T174626Z">
+        <seg>He spent all day writing non stop, in order to fulfill his readers needs, neglecting the ones from his loved ones.</seg>
       </tuv>
     </tu>
     <tu>
