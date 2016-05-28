@@ -1336,8 +1336,8 @@
       <tuv lang="ES-ES">
         <seg>¿Ya estás aquí?&lt;t0/&gt; Menos mal que hoy le ibas a &lt;t1/&gt;preparar tú&lt;t2/&gt; la cena...</seg>
       </tuv>
-      <tuv lang="EN" changeid="Kalitro" changedate="20160527T174839Z" creationid="Kalitro" creationdate="20160527T174839Z">
-        <seg>It was about time! It's a good thing that you were going to make her dinner tonight, right?</seg>
+      <tuv lang="EN" changeid="IkanaPC" changedate="20160528T151833Z" creationid="Kalitro" creationdate="20160527T174839Z">
+        <seg>Oh, you're here? It's a good thing that you were going to make her dinner tonight, right?</seg>
       </tuv>
     </tu>
     <tu>
