@@ -506,8 +506,8 @@
       <tuv lang="ES-ES">
         <seg>Me siento &lt;t0/&gt;muy &lt;t1/&gt;sola &lt;t2/&gt;aquí&lt;t3/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Kalitro" changedate="20160527T222254Z" creationid="Kalitro" creationdate="20160527T222254Z">
-        <seg>I feel lonely here</seg>
+      <tuv lang="EN" changeid="IkanaPC" changedate="20160528T154609Z" creationid="Kalitro" creationdate="20160527T222254Z">
+        <seg>I feel very lonely here</seg>
       </tuv>
     </tu>
     <tu>
@@ -1016,6 +1016,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>En realidad habla de estar en el lugar, no de vivir en la casa</note>
       <tuv lang="ES-ES">
         <seg>Ya no soporto &lt;t4/&gt;estar más tiempo&lt;t5/&gt; aquí.</seg>
       </tuv>
