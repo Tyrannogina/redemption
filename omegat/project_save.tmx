@@ -286,6 +286,22 @@
     </tu>
     <tu>
       <tuv lang="ES-ES">
+        <seg>ESCENA 2 DESPACHO-INTERIOR-DÍA</seg>
+      </tuv>
+      <tuv lang="EN" changeid="IkanaPC" changedate="20160528T123230Z" creationid="IkanaPC" creationdate="20160528T123230Z">
+        <seg>SCENE 2 OFFICE-INTERIOR-DAY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>ESCENA 3 COCINA-INTERIOR-NOCHE</seg>
+      </tuv>
+      <tuv lang="EN" changeid="IkanaPC" changedate="20160528T123248Z" creationid="IkanaPC" creationdate="20160528T123248Z">
+        <seg>SCENE 3 KITCHEN-INTERIOR-NIGHT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>Era la casa quien le hablaba...</seg>
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160528T121655Z" creationid="Kalitro" creationdate="20160528T121655Z">
@@ -666,6 +682,14 @@
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T174843Z" creationid="Kalitro" creationdate="20160527T174843Z">
         <seg>Let's not get started...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>Vale.&lt;t0/&gt; ¿Hoy no tienes que escribir?</seg>
+      </tuv>
+      <tuv lang="EN" changeid="IkanaPC" changedate="20160528T123309Z" creationid="IkanaPC" creationdate="20160528T123309Z">
+        <seg>Vale. ¿Hoy no tienes que escribir?</seg>
       </tuv>
     </tu>
     <tu>
