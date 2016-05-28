@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="ES-ES"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="ES-ES"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="ES-ES">
+        <seg>&lt;t3/&gt;Venga, y ahora sí, a dormir ¿eh?&lt;t4/&gt; &lt;t5/&gt;Venga, cariño, va.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T143831Z" creationid="Kalitro" creationdate="20160528T143831Z">
+        <seg>Comen, and now yes, it's bedtime, right? Come on, sweetie, go ahead.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>&lt;t3/&gt;Y al final, siempre&lt;t4/&gt; te cansas.</seg>
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T222356Z" creationid="Kalitro" creationdate="20160527T222356Z">
@@ -122,6 +130,14 @@
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T222413Z" creationid="Kalitro" creationdate="20160527T222413Z">
         <seg>I remind you that it was you who decided letting Sonia go.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>&lt;t6/&gt;Buenas noches.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T143842Z" creationid="Kalitro" creationdate="20160528T143842Z">
+        <seg>Good night.</seg>
       </tuv>
     </tu>
     <tu>
@@ -226,6 +242,14 @@
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T222737Z" creationid="Kalitro" creationdate="20160527T222737Z">
         <seg>That's enough!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>Buenas noches papá.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T143848Z" creationid="Kalitro" creationdate="20160528T143848Z">
+        <seg>Good night, dad.</seg>
       </tuv>
     </tu>
     <tu>
@@ -728,8 +752,16 @@
       <tuv lang="ES-ES">
         <seg>Tal vez es para que la gente vea que e&lt;t0/&gt;sta historia le puede pasar a cualquiera... incluso &lt;t1/&gt;también &lt;t2/&gt;a nosotros.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Kalitro" changedate="20160528T142518Z" creationid="Kalitro" creationdate="20160528T142518Z">
-        <seg>Maybe</seg>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T143739Z" creationid="Kalitro" creationdate="20160528T142518Z">
+        <seg>Maybe it is so people can see that this story can happen to anyone... even us too.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>Te quiero mucho, mucho...</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T143856Z" creationid="Kalitro" creationdate="20160528T143856Z">
+        <seg>I love you ver, very much...</seg>
       </tuv>
     </tu>
     <tu>
@@ -890,6 +922,14 @@
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T221020Z" creationid="Kalitro" creationdate="20160527T221020Z">
         <seg>Well, I cannot do it tonight. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>Yo también, &lt;t0/&gt;princesa&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T143903Z" creationid="Kalitro" creationdate="20160528T143903Z">
+        <seg>Mee too, princess.</seg>
       </tuv>
     </tu>
     <tu>
