@@ -726,6 +726,14 @@
     </tu>
     <tu>
       <tuv lang="ES-ES">
+        <seg>¡Que me pongan la inyección, por favor!</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T115022Z" creationid="Kalitro" creationdate="20160528T115022Z">
+        <seg>Give me an injection, please!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>¡Sííí!</seg>
       </tuv>
       <tuv lang="EN" changeid="IkanaPC" changedate="20160524T211430Z" creationid="IkanaPC" creationdate="20160524T211430Z">
