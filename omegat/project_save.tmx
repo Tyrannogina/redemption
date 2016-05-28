@@ -390,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="ES-ES">
+        <seg>Mucho.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T121726Z" creationid="Kalitro" creationdate="20160528T121726Z">
+        <seg>Yes, a lot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>Muy b&lt;t0/&gt;ien.</seg>
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T181006Z" creationid="Kalitro" creationdate="20160527T181006Z">
@@ -538,6 +546,14 @@
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T173754Z" creationid="Kalitro" creationdate="20160527T173754Z">
         <seg>But you already know it by heart...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>Qué bonito está Montserrat en los días claros.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T121716Z" creationid="Kalitro" creationdate="20160528T121716Z">
+        <seg>Montserrat his so beautiful on a clear day.</seg>
       </tuv>
     </tu>
     <tu>
@@ -874,6 +890,14 @@
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T222510Z" creationid="Kalitro" creationdate="20160527T222510Z">
         <seg>What are you impliying? </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>¿Te gusta?</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T121721Z" creationid="Kalitro" creationdate="20160528T121721Z">
+        <seg>Do you like it?</seg>
       </tuv>
     </tu>
     <tu>
