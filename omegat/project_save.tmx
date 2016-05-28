@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="ES-ES">
+        <seg>Hasta que una fría y ventosa noche del mes de &lt;t4/&gt;diciembre&lt;t5/&gt;...</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T113123Z" creationid="Kalitro" creationdate="20160528T113123Z">
+        <seg>Until in a cold and windy december night...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>Hostia, recuerda que tienes una hija y un&lt;t0/&gt; marido, &lt;t1/&gt;¿de acuerdo?</seg>
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T222656Z" creationid="Kalitro" creationdate="20160527T222656Z">
@@ -494,6 +502,14 @@
     </tu>
     <tu>
       <tuv lang="ES-ES">
+        <seg>Todo lo que &lt;t0/&gt;en otros tiempos&lt;t1/&gt; les unía, hasta el amor por su hij&lt;t2/&gt;a&lt;t3/&gt;, fue deshilachándose poco a poco.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T113059Z" creationid="Kalitro" creationdate="20160528T112944Z">
+        <seg>Everything that, in the past, bind them together, even the love for their daughter, was little by little, tearing apart.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>Un buen día, decidió cambiar el estrés de la gran ciudad por el sosiego de la vida en el campo, donde, igualmente, se seguía estresando.</seg>
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T174536Z" creationid="Kalitro" creationdate="20160527T174536Z">
@@ -544,8 +560,8 @@
       <tuv lang="ES-ES">
         <seg>Y así, día tras día, la relación de Pau Sintiempo con su mujer se fue resquebrajando.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Kalitro" changedate="20160528T110708Z" creationid="Kalitro" creationdate="20160528T110708Z">
-        <seg>And so, day after day, Pau Outoftime relationship with his wife was tearing apart.</seg>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T113027Z" creationid="Kalitro" creationdate="20160528T110708Z">
+        <seg>And so, day after day, Pau Outoftime relationship with his wife was undermining.</seg>
       </tuv>
     </tu>
     <tu>
