@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="ES-ES">
+        <seg>&lt;t1/&gt;¿Paz?</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T113336Z" creationid="Kalitro" creationdate="20160528T113336Z">
+        <seg>&lt;t1/&gt;Paz?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>&lt;t12/&gt;En el siglo XIX la gente se moría&lt;t13/&gt; por un simple resfriado.</seg>
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T180157Z" creationid="Kalitro" creationdate="20160527T180157Z">
@@ -246,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="ES-ES">
+        <seg>Durante meses la vida de Pau Sintiempo no fue más que oscuridad.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T113403Z" creationid="Kalitro" creationdate="20160528T113403Z">
+        <seg>For months, Pau Outoftime's life was nothing but darkness.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>Está bien.</seg>
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T174210Z" creationid="Kalitro" creationdate="20160527T174210Z">
@@ -350,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="ES-ES">
+        <seg>No me esperes a cenar.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T113324Z" creationid="Kalitro" creationdate="20160528T113324Z">
+        <seg>Don't wait for me to the dinner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>No me gusta lo que estás haciendo con Lis, no me gusta que tome una pastilla cada vez que tú tomas una… Por favor...</seg>
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160528T103444Z" creationid="Kalitro" creationdate="20160528T103400Z">
@@ -394,6 +418,14 @@
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160528T110337Z" creationid="Kalitro" creationdate="20160528T110337Z">
         <seg>There's... there's no dinner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>Oye, Paz, p&lt;t0/&gt;ensaba que tendr ías la decencia de venir a la entrega de premios, pero veo que... (unos segundos de silencio) &lt;t1/&gt;Bah, d&lt;t2/&gt;éjalo.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T113310Z" creationid="Kalitro" creationdate="20160528T113310Z">
+        <seg>Listen, Paz, I though that you'd had the decency of coming to the awards event, but it seems that... Bah, just leave it...</seg>
       </tuv>
     </tu>
     <tu>
@@ -662,6 +694,14 @@
     </tu>
     <tu>
       <tuv lang="ES-ES">
+        <seg>¿&lt;t0/&gt;¡Paz!?</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T113332Z" creationid="Kalitro" creationdate="20160528T113332Z">
+        <seg>&lt;t0/&gt;Paz!?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>¿Contra tu propi&lt;t1/&gt;a&lt;t2/&gt; hij&lt;t3/&gt;a, o qué&lt;t4/&gt;?</seg>
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T175931Z" creationid="Kalitro" creationdate="20160527T175931Z">
@@ -698,6 +738,14 @@
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T175915Z" creationid="Kalitro" creationdate="20160527T175915Z">
         <seg>What's this?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>¿Paz?</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T113340Z" creationid="Kalitro" creationdate="20160528T113340Z">
+        <seg>Paz?</seg>
       </tuv>
     </tu>
     <tu>
