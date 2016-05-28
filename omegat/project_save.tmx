@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="ES-ES">
+        <seg>&lt;t1/&gt;No hay cena, ¿no?</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T110413Z" creationid="Kalitro" creationdate="20160528T110413Z">
+        <seg>There's no dinner, isn't it?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>&lt;t12/&gt;En el siglo XIX la gente se moría&lt;t13/&gt; por un simple resfriado.</seg>
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T180157Z" creationid="Kalitro" creationdate="20160527T180157Z">
@@ -730,6 +738,14 @@
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T222148Z" creationid="Kalitro" creationdate="20160527T222148Z">
         <seg>Already?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>¿¡Ves por qué te lo digo!?</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T110422Z" creationid="Kalitro" creationdate="20160528T110422Z">
+        <seg>See what I mean?!</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
