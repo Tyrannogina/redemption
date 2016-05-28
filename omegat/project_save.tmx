@@ -568,8 +568,8 @@
       <tuv lang="ES-ES">
         <seg>Papá, ¿porqué los personajes de la historia se llaman como nosotros?</seg>
       </tuv>
-      <tuv lang="EN" changeid="Kalitro" changedate="20160528T141936Z" creationid="Kalitro" creationdate="20160528T141936Z">
-        <seg>Dad, why are the characters of the story called like us?</seg>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T142445Z" creationid="Kalitro" creationdate="20160528T141936Z">
+        <seg>Dad, why do the characters of the story have our names?</seg>
       </tuv>
     </tu>
     <tu>
@@ -610,6 +610,14 @@
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160528T141119Z" creationid="Kalitro" creationdate="20160528T141119Z">
         <seg>Well... you have nothing to day?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>Pues… No sé hija.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T142511Z" creationid="Kalitro" creationdate="20160528T142511Z">
+        <seg>Well... I dont' know, child.</seg>
       </tuv>
     </tu>
     <tu>
@@ -714,6 +722,14 @@
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T180005Z" creationid="Kalitro" creationdate="20160527T180005Z">
         <seg>It's just Dalsy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>Tal vez es para que la gente vea que e&lt;t0/&gt;sta historia le puede pasar a cualquiera... incluso &lt;t1/&gt;también &lt;t2/&gt;a nosotros.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T142518Z" creationid="Kalitro" creationdate="20160528T142518Z">
+        <seg>Maybe</seg>
       </tuv>
     </tu>
     <tu>
