@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="ES-ES">
+        <seg>(Sonriendo) &lt;t0/&gt;Uh, igual el que tiene que&lt;t1/&gt; tomarse a&lt;t2/&gt;lgo &lt;t3/&gt;¡eres tú!</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T144702Z" creationid="Kalitro" creationdate="20160528T144702Z">
+        <seg>Oh, maybe the one that should take something it's you!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>&lt;t0/&gt;Encima es esta mañana todavía tenía fiebre.</seg>
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160528T103646Z" creationid="Kalitro" creationdate="20160528T103646Z">
@@ -282,6 +290,14 @@
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T222156Z" creationid="Kalitro" creationdate="20160527T222156Z">
         <seg>Good night.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>Creo que me &lt;t0/&gt;tomaré&lt;t1/&gt; unos días de descanso...</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T144636Z" creationid="Kalitro" creationdate="20160528T144636Z">
+        <seg>I think I'll take a few days off...</seg>
       </tuv>
     </tu>
     <tu>
@@ -686,10 +702,26 @@
     </tu>
     <tu>
       <tuv lang="ES-ES">
+        <seg>Qué raro</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T144707Z" creationid="Kalitro" creationdate="20160528T144707Z">
+        <seg>So weird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>R&lt;t0/&gt;EDENC&lt;t1/&gt;IÓN</seg>
       </tuv>
       <tuv lang="EN" changeid="IkanaPC" changedate="20160528T123024Z" creationid="IkanaPC" creationdate="20160528T122924Z">
         <seg>REDENCIÓN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>REDENCIÓN</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T144726Z" creationid="Kalitro" creationdate="20160528T144726Z">
+        <seg>Redemption</seg>
       </tuv>
     </tu>
     <tu>
@@ -856,8 +888,8 @@
       <tuv lang="ES-ES">
         <seg>Vale.&lt;t0/&gt; ¿Hoy no tienes que escribir?</seg>
       </tuv>
-      <tuv lang="EN" changeid="IkanaPC" changedate="20160528T123309Z" creationid="IkanaPC" creationdate="20160528T123309Z">
-        <seg>Vale. ¿Hoy no tienes que escribir?</seg>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T144605Z" creationid="IkanaPC" creationdate="20160528T123309Z">
+        <seg>Ok. Don't you have to write tonight?</seg>
       </tuv>
     </tu>
     <tu>
@@ -866,6 +898,14 @@
       </tuv>
       <tuv lang="EN" changeid="IkanaPC" changedate="20160528T122416Z" creationid="Kalitro" creationdate="20160528T110248Z">
         <seg>Come on, let's forget bout it and let's have dinner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>Venga, vamos.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T144715Z" creationid="Kalitro" creationdate="20160528T144715Z">
+        <seg>Well, come on.</seg>
       </tuv>
     </tu>
     <tu>
@@ -998,6 +1038,14 @@
     </tu>
     <tu>
       <tuv lang="ES-ES">
+        <seg>una novela de Pau Vinyals</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T144736Z" creationid="Kalitro" creationdate="20160528T144736Z">
+        <seg>a nivel by Pau Vinyals</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>¡Bebes demasiado!</seg>
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160528T110214Z" creationid="Kalitro" creationdate="20160528T110214Z">
@@ -1090,6 +1138,14 @@
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T181014Z" creationid="Kalitro" creationdate="20160527T181014Z">
         <seg>Are you sure? Nothing hurts you?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>¿&lt;t0/&gt;Vamos a &lt;t1/&gt;ver una peli?</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T144544Z" creationid="Kalitro" creationdate="20160528T144544Z">
+        <seg>Shall we watch a movie?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1194,6 +1250,14 @@
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160528T141050Z" creationid="Kalitro" creationdate="20160528T141050Z">
         <seg>What do you think?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>¿Sabes?</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T144609Z" creationid="Kalitro" creationdate="20160528T144609Z">
+        <seg>You know...</seg>
       </tuv>
     </tu>
     <tu>
