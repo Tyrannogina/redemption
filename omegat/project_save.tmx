@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="ES-ES">
+        <seg>AY, por favor</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T115048Z" creationid="Kalitro" creationdate="20160528T115048Z">
+        <seg>Augh, please!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>Ahora toca dormir.</seg>
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T222129Z" creationid="Kalitro" creationdate="20160527T222129Z">
@@ -714,6 +722,14 @@
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160528T110204Z" creationid="Kalitro" creationdate="20160528T110204Z">
         <seg>Medicins makes you a different person.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>¡Me duele la cabeza!</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T115037Z" creationid="Kalitro" creationdate="20160528T115037Z">
+        <seg>My head hurts!</seg>
       </tuv>
     </tu>
     <tu>
