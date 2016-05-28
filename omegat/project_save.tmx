@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="ES-ES">
+        <seg>&lt;t0/&gt;Encima es esta mañana todavía tenía fiebre.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T103646Z" creationid="Kalitro" creationdate="20160528T103646Z">
+        <seg>This morning she still had a fever.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>&lt;t0/&gt;Est&lt;t1/&gt;oy bien.</seg>
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T183838Z" creationid="Kalitro" creationdate="20160527T183838Z">
@@ -186,6 +194,14 @@
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T180043Z" creationid="Kalitro" creationdate="20160527T180043Z">
         <seg>Dalsy, Dalsy…&lt;t0/&gt; Now the sarcastic one is you.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>Deja de...¡Ya basta!</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T103702Z" creationid="Kalitro" creationdate="20160528T103702Z">
+        <seg>Will you... That's enough!</seg>
       </tuv>
     </tu>
     <tu>
@@ -534,6 +550,14 @@
     </tu>
     <tu>
       <tuv lang="ES-ES">
+        <seg>¡Las pastillas te anulan!</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T103711Z" creationid="Kalitro" creationdate="20160528T103711Z">
+        <seg>Pills nulify you!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>¡Por favor!</seg>
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T173811Z" creationid="Kalitro" creationdate="20160527T173811Z">
@@ -600,8 +624,8 @@
       <tuv lang="ES-ES">
         <seg>¿Por qué siempre tienes que ser tan hiriente?</seg>
       </tuv>
-      <tuv lang="EN" changeid="Kalitro" changedate="20160528T103440Z" creationid="Kalitro" creationdate="20160528T103440Z">
-        <seg>Why must you be so hurtful everytime</seg>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T103612Z" creationid="Kalitro" creationdate="20160528T103440Z">
+        <seg>Why must you always be so hurtful.</seg>
       </tuv>
     </tu>
     <tu>
