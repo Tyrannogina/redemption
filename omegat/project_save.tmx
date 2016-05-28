@@ -176,8 +176,8 @@
       <tuv lang="ES-ES">
         <seg>&lt;t6/&gt;Ya está bien.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Kalitro" changedate="20160527T180127Z" creationid="Kalitro" creationdate="20160527T180127Z">
-        <seg>That's enough.</seg>
+      <tuv lang="EN" changeid="IkanaPC" changedate="20160528T153617Z" creationid="Kalitro" creationdate="20160527T180127Z">
+        <seg>It's enough.</seg>
       </tuv>
     </tu>
     <tu>
@@ -304,8 +304,8 @@
       <tuv lang="ES-ES">
         <seg>Dalsy, Dalsy…&lt;t0/&gt; Ahora &lt;t1/&gt;la sarcástica&lt;t2/&gt; eres tú...</seg>
       </tuv>
-      <tuv lang="EN" changeid="Kalitro" changedate="20160527T180043Z" creationid="Kalitro" creationdate="20160527T180043Z">
-        <seg>Dalsy, Dalsy…&lt;t0/&gt; Now the sarcastic one is you.</seg>
+      <tuv lang="EN" changeid="IkanaPC" changedate="20160528T153543Z" creationid="Kalitro" creationdate="20160527T180043Z">
+        <seg>Dalsy, Dalsy… Now you're being the sarcastic one...</seg>
       </tuv>
     </tu>
     <tu>
@@ -656,8 +656,8 @@
       <tuv lang="ES-ES">
         <seg>Para eso hacen los medicamentos, &lt;t0/&gt;Pau&lt;t1/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Kalitro" changedate="20160527T180054Z" creationid="Kalitro" creationdate="20160527T180054Z">
-        <seg>That's what medicins are made for, Pau.</seg>
+      <tuv lang="EN" changeid="IkanaPC" changedate="20160528T153605Z" creationid="Kalitro" creationdate="20160527T180054Z">
+        <seg>That's what medicines are made for, Pau.</seg>
       </tuv>
     </tu>
     <tu>
