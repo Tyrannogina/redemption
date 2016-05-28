@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="ES-ES"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="ES-ES"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -562,6 +562,14 @@
       </tuv>
       <tuv lang="EN" changeid="IkanaPC" changedate="20160528T123005Z" creationid="IkanaPC" creationdate="20160524T211404Z">
         <seg>Dad, tell me the story of Pau Outoftime</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>Papá, ¿porqué los personajes de la historia se llaman como nosotros?</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T141936Z" creationid="Kalitro" creationdate="20160528T141936Z">
+        <seg>Dad, why are the characters of the story called like us?</seg>
       </tuv>
     </tu>
     <tu>
