@@ -424,6 +424,14 @@
     </tu>
     <tu>
       <tuv lang="ES-ES">
+        <seg>Gira.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="IkanaPC" changedate="20160528T172321Z" creationid="IkanaPC" creationdate="20160528T172321Z">
+        <seg>Turn right.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>HOMBRE</seg>
       </tuv>
       <tuv lang="EN" changeid="IkanaPC" changedate="20160524T211413Z" creationid="IkanaPC" creationdate="20160524T211413Z">
