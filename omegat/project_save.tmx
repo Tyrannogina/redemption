@@ -708,8 +708,8 @@ Don't expect me for dinner. </note>
       <tuv lang="ES-ES">
         <seg>Pues… &lt;t2/&gt;¿Qué, &lt;t3/&gt;no me dices nada?</seg>
       </tuv>
-      <tuv lang="EN" changeid="Kalitro" changedate="20160528T141119Z" creationid="Kalitro" creationdate="20160528T141119Z">
-        <seg>Well... you have nothing to day?</seg>
+      <tuv lang="EN" changeid="IkanaPC" changedate="20160528T174915Z" creationid="Kalitro" creationdate="20160528T141119Z">
+        <seg>Well... you have nothing to say?</seg>
       </tuv>
     </tu>
     <tu>
