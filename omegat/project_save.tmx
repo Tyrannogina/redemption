@@ -104,8 +104,8 @@
       <tuv lang="ES-ES">
         <seg>&lt;t12/&gt;En el siglo XIX la gente se moría&lt;t13/&gt; por un simple resfriado.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Kalitro" changedate="20160527T180157Z" creationid="Kalitro" creationdate="20160527T180157Z">
-        <seg>People from the 19th died from a mere cold.</seg>
+      <tuv lang="EN" changeid="IkanaPC" changedate="20160528T153731Z" creationid="Kalitro" creationdate="20160527T180157Z">
+        <seg>In the 19th century people died from a mere cold.</seg>
       </tuv>
     </tu>
     <tu>
@@ -328,16 +328,16 @@
       <tuv lang="ES-ES">
         <seg>Dilo, n&lt;t0/&gt;o te cortes.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Kalitro" changedate="20160527T180851Z" creationid="Kalitro" creationdate="20160527T180851Z">
-        <seg>Don't get shy, spill it!.</seg>
+      <tuv lang="EN" changeid="IkanaPC" changedate="20160528T153821Z" creationid="Kalitro" creationdate="20160527T180851Z">
+        <seg>Don't be shy.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ES-ES">
         <seg>Dilo.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Kalitro" changedate="20160527T180907Z" creationid="Kalitro" creationdate="20160527T180828Z">
-        <seg>Spill it.</seg>
+      <tuv lang="EN" changeid="IkanaPC" changedate="20160528T153806Z" creationid="Kalitro" creationdate="20160527T180828Z">
+        <seg>Say it.</seg>
       </tuv>
     </tu>
     <tu>
@@ -584,8 +584,8 @@
       <tuv lang="ES-ES">
         <seg>No, &lt;t0/&gt;lo que no quiero es que nuestra hija se convierta en una drogadicta como...</seg>
       </tuv>
-      <tuv lang="EN" changeid="Kalitro" changedate="20160527T180822Z" creationid="Kalitro" creationdate="20160527T180822Z">
-        <seg>No, but I don't want her to be a drug addict like... forget it.</seg>
+      <tuv lang="EN" changeid="IkanaPC" changedate="20160528T153759Z" creationid="Kalitro" creationdate="20160527T180822Z">
+        <seg>No, but I don't want her to be a drug addict like...</seg>
       </tuv>
     </tu>
     <tu>
@@ -765,6 +765,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>the girl no suena demasiado impersonal en inglés, aunque nosotros lo usemos?</note>
       <tuv lang="ES-ES">
         <seg>Será mejor que &lt;t0/&gt;me&lt;t1/&gt; lleve a &lt;t2/&gt;la niña &lt;t3/&gt;a dormir.</seg>
       </tuv>
