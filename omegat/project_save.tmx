@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="ES-ES">
+        <seg>&lt;t2/&gt;Desaparecer l&lt;t3/&gt;iteralmente.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T114657Z" creationid="Kalitro" creationdate="20160528T114657Z">
+        <seg>Literally, dissapear.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>&lt;t2/&gt;Pero como a ti no te gusta vivir en&lt;t3/&gt; el progreso.</seg>
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T180105Z" creationid="Kalitro" creationdate="20160527T180105Z">
@@ -226,6 +234,14 @@
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160528T103702Z" creationid="Kalitro" creationdate="20160528T103702Z">
         <seg>Will you... That's enough!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>Desaparecer.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T114650Z" creationid="Kalitro" creationdate="20160528T114650Z">
+        <seg>Dissapear.</seg>
       </tuv>
     </tu>
     <tu>
@@ -422,6 +438,14 @@
     </tu>
     <tu>
       <tuv lang="ES-ES">
+        <seg>Oscuridad y silencio.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T114440Z" creationid="Kalitro" creationdate="20160528T114440Z">
+        <seg>Darkness and silence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>Oye, Paz, p&lt;t0/&gt;ensaba que tendr ías la decencia de venir a la entrega de premios, pero veo que... (unos segundos de silencio) &lt;t1/&gt;Bah, d&lt;t2/&gt;éjalo.</seg>
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160528T113310Z" creationid="Kalitro" creationdate="20160528T113310Z">
@@ -514,6 +538,22 @@
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T180121Z" creationid="Kalitro" creationdate="20160527T180121Z">
         <seg>If it were for you, we would still be in the 19th century.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>Su inspiración desapareció el mismo día que lo hizo su hij&lt;t0/&gt;a&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T114551Z" creationid="Kalitro" creationdate="20160528T114551Z">
+        <seg>His inspiration was gone the same day his son was gone..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>Su nuevo mundo, además de oscuro, era un mundo en el que no existían las palabras, a que carecían de significado.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T114628Z" creationid="Kalitro" creationdate="20160528T114628Z">
+        <seg>His new world, beside dark, was a wordless world, since they lost their meaning.</seg>
       </tuv>
     </tu>
     <tu>
@@ -618,6 +658,22 @@
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T222238Z" creationid="Kalitro" creationdate="20160527T222238Z">
         <seg>And you you shouldn't drink that much.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>Y un punzante dolor que le desgarraba el alma.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T114514Z" creationid="Kalitro" creationdate="20160528T114514Z">
+        <seg>And a sharp pain that rip his soul.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>Y... ¿qué hizo Pau Sintiempo?</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T114645Z" creationid="Kalitro" creationdate="20160528T114645Z">
+        <seg>And... what did Pau Outoftime did?</seg>
       </tuv>
     </tu>
     <tu>
