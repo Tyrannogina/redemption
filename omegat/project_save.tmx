@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="ES-ES"/>
+  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="ES-ES"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -310,10 +310,26 @@
     </tu>
     <tu>
       <tuv lang="ES-ES">
+        <seg>Entramos, ¿no?</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T141307Z" creationid="Kalitro" creationdate="20160528T141307Z">
+        <seg>Let's get it, shall we?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>Era la casa quien le hablaba...</seg>
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160528T121655Z" creationid="Kalitro" creationdate="20160528T121655Z">
         <seg>It was the house who spoke to him.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>Eres una caja de sorpresas.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T141235Z" creationid="Kalitro" creationdate="20160528T141235Z">
+        <seg>You're full of surprises.</seg>
       </tuv>
     </tu>
     <tu>
@@ -410,6 +426,14 @@
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T222254Z" creationid="Kalitro" creationdate="20160527T222254Z">
         <seg>I feel lonely here</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>Mi amor.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T141243Z" creationid="Kalitro" creationdate="20160528T141243Z">
+        <seg>My love.</seg>
       </tuv>
     </tu>
     <tu>
@@ -574,6 +598,14 @@
     </tu>
     <tu>
       <tuv lang="ES-ES">
+        <seg>Pues… &lt;t2/&gt;¿Qué, &lt;t3/&gt;no me dices nada?</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T141119Z" creationid="Kalitro" creationdate="20160528T141119Z">
+        <seg>Well... you have nothing to day?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>Qué bonito está Montserrat en los días claros.</seg>
       </tuv>
       <tuv lang="EN" changeid="IkanaPC" changedate="20160528T122540Z" creationid="Kalitro" creationdate="20160528T121716Z">
@@ -646,6 +678,14 @@
     </tu>
     <tu>
       <tuv lang="ES-ES">
+        <seg>Sí.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T141311Z" creationid="Kalitro" creationdate="20160528T141311Z">
+        <seg>Yes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>Sólamente &lt;t1/&gt;Dalsy&lt;t2/&gt;.</seg>
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T180005Z" creationid="Kalitro" creationdate="20160527T180005Z">
@@ -714,6 +754,14 @@
       </tuv>
       <tuv lang="EN" changeid="IkanaPC" changedate="20160528T122416Z" creationid="Kalitro" creationdate="20160528T110248Z">
         <seg>Come on, let's forget bout it and let's have dinner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>Venga, ven por aquí.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T141043Z" creationid="Kalitro" creationdate="20160528T141043Z">
+        <seg>Come on, come over here.</seg>
       </tuv>
     </tu>
     <tu>
@@ -806,6 +854,22 @@
     </tu>
     <tu>
       <tuv lang="ES-ES">
+        <seg>[Risas] Bueno, pues este será el hogar de Lis.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T141259Z" creationid="Kalitro" creationdate="20160528T141259Z">
+        <seg>Well, so this will be Lis' home.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>[Risas] Y no veas lo que me ha costado conseguirla, ¿eh?</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T141228Z" creationid="Kalitro" creationdate="20160528T141228Z">
+        <seg>You have no idea how hard was getting it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>¡Bebes demasiado!</seg>
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160528T110214Z" creationid="Kalitro" creationdate="20160528T110214Z">
@@ -854,6 +918,14 @@
     </tu>
     <tu>
       <tuv lang="ES-ES">
+        <seg>¡Sí!</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T141144Z" creationid="Kalitro" creationdate="20160528T141144Z">
+        <seg>Yes!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>¡Sííí!</seg>
       </tuv>
       <tuv lang="EN" changeid="IkanaPC" changedate="20160524T211430Z" creationid="IkanaPC" creationdate="20160524T211430Z">
@@ -886,6 +958,14 @@
     </tu>
     <tu>
       <tuv lang="ES-ES">
+        <seg>¿&lt;t0/&gt;Y todo esto es nuestro&lt;t1/&gt;?</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T141140Z" creationid="Kalitro" creationdate="20160528T141140Z">
+        <seg>And this is all ours?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>¿&lt;t0/&gt;¡Paz!?</seg>
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160528T113332Z" creationid="Kalitro" creationdate="20160528T113332Z">
@@ -906,6 +986,14 @@
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T180214Z" creationid="Kalitro" creationdate="20160527T180214Z">
         <seg>That's what you want for your daughter?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>¿No &lt;t0/&gt;querías un sitio tranquilo &lt;t1/&gt;para escribir?</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T141103Z" creationid="Kalitro" creationdate="20160528T141103Z">
+        <seg>You wanted a quiet place, didn't you?</seg>
       </tuv>
     </tu>
     <tu>
@@ -954,6 +1042,14 @@
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T222510Z" creationid="Kalitro" creationdate="20160527T222510Z">
         <seg>What are you impliying? </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>¿Qué te parece?</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T141050Z" creationid="Kalitro" creationdate="20160528T141050Z">
+        <seg>What do you think?</seg>
       </tuv>
     </tu>
     <tu>
