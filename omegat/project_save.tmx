@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="ES-ES"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="ES-ES"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -512,8 +512,8 @@
       <tuv lang="ES-ES">
         <seg>Papá, c&lt;t0/&gt;uéntame la historia de Pau Sintiempo.</seg>
       </tuv>
-      <tuv lang="EN" changeid="IkanaPC" changedate="20160524T211404Z" creationid="IkanaPC" creationdate="20160524T211404Z">
-        <seg>&lt;t0/&gt;Dad, tell me the story of Pau Outoftime</seg>
+      <tuv lang="EN" changeid="IkanaPC" changedate="20160528T123005Z" creationid="IkanaPC" creationdate="20160524T211404Z">
+        <seg>Dad, tell me the story of Pau Outoftime</seg>
       </tuv>
     </tu>
     <tu>
@@ -558,6 +558,14 @@
     </tu>
     <tu>
       <tuv lang="ES-ES">
+        <seg>R&lt;t0/&gt;EDENC&lt;t1/&gt;IÓN</seg>
+      </tuv>
+      <tuv lang="EN" changeid="IkanaPC" changedate="20160528T123024Z" creationid="IkanaPC" creationdate="20160528T122924Z">
+        <seg>REDENCIÓN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>S&lt;t0/&gt;i&lt;t1/&gt;empre di&lt;t2/&gt;ses&lt;t3/&gt; lo mismo...</seg>
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T221005Z" creationid="Kalitro" creationdate="20160527T221005Z">
@@ -576,8 +584,8 @@
       <tuv lang="ES-ES">
         <seg>Se pasaba el día escribiendo sin parar para satisfacer las necesidades de sus lectores, desatendiendo las de sus seres &lt;t0/&gt;más &lt;t1/&gt;queridos.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Kalitro" changedate="20160527T174626Z" creationid="Kalitro" creationdate="20160527T174626Z">
-        <seg>He spent his days writing non-stop, in order to fulfill his readers needs, neglecting the ones from his own loved ones.</seg>
+      <tuv lang="EN" changeid="IkanaPC" changedate="20160528T122924Z" creationid="Kalitro" creationdate="20160527T174626Z">
+        <seg>He spent his days writing non-stop, in order to fulfill his readers needs, neglecting the ones from his own loved ones.&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -642,6 +650,14 @@
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T174536Z" creationid="Kalitro" creationdate="20160527T174536Z">
         <seg> A day like any other, he decided to change the stress of the city for the peace of a rural life, where he, still, continued to suffer from stress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>VOZ EN OFF</seg>
+      </tuv>
+      <tuv lang="EN" changeid="IkanaPC" changedate="20160528T123204Z" creationid="IkanaPC" creationdate="20160528T123204Z">
+        <seg>VOICE OVER</seg>
       </tuv>
     </tu>
     <tu>
