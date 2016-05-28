@@ -310,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="ES-ES">
+        <seg>No me gusta lo que estás haciendo con Lis, no me gusta que tome una pastilla cada vez que tú tomas una… Por favor...</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T103444Z" creationid="Kalitro" creationdate="20160528T103400Z">
+        <seg>I dislike what your are doing to Lis, I dislike that she has to take a pill everytime you take one... Please...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>No sé, lo que a ti te parezca</seg>
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T222557Z" creationid="Kalitro" creationdate="20160527T222557Z">
@@ -586,6 +594,14 @@
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T175915Z" creationid="Kalitro" creationdate="20160527T175915Z">
         <seg>What's this?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>¿Por qué siempre tienes que ser tan hiriente?</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T103440Z" creationid="Kalitro" creationdate="20160528T103440Z">
+        <seg>Why must you be so hurtful everytime</seg>
       </tuv>
     </tu>
     <tu>
