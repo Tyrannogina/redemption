@@ -1230,8 +1230,8 @@ Don't expect me for dinner. </note>
       <tuv lang="ES-ES">
         <seg>¿No &lt;t0/&gt;querías un sitio tranquilo &lt;t1/&gt;para escribir?</seg>
       </tuv>
-      <tuv lang="EN" changeid="Kalitro" changedate="20160528T141103Z" creationid="Kalitro" creationdate="20160528T141103Z">
-        <seg>You wanted a quiet place, didn't you?</seg>
+      <tuv lang="EN" changeid="IkanaPC" changedate="20160528T174403Z" creationid="Kalitro" creationdate="20160528T141103Z">
+        <seg>Didn't you want a quiet place to write?</seg>
       </tuv>
     </tu>
     <tu>
