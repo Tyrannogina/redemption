@@ -192,8 +192,8 @@
       <tuv lang="ES-ES">
         <seg>A ver, &lt;t0/&gt;¿&lt;t1/&gt;cómo empezaba…?</seg>
       </tuv>
-      <tuv lang="EN" changeid="Kalitro" changedate="20160527T174232Z" creationid="Kalitro" creationdate="20160527T174232Z">
-        <seg>Let's see...&lt;t0/&gt;&lt;t1/&gt;How did it started?</seg>
+      <tuv lang="EN" changeid="IkanaPC" changedate="20160528T150804Z" creationid="Kalitro" creationdate="20160527T174232Z">
+        <seg>Let's see...How did it start?</seg>
       </tuv>
     </tu>
     <tu>
@@ -354,6 +354,14 @@
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160528T113403Z" creationid="Kalitro" creationdate="20160528T113403Z">
         <seg>For months, Pau Outoftime's life was nothing but darkness.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>ESCENA 1 MASIA-EXTERIOR-DÍA</seg>
+      </tuv>
+      <tuv lang="EN" changeid="IkanaPC" changedate="20160528T150821Z" creationid="IkanaPC" creationdate="20160528T150821Z">
+        <seg>SCENE 1 MASIA-EXTERIOR-DÍA</seg>
       </tuv>
     </tu>
     <tu>
@@ -672,8 +680,8 @@
       <tuv lang="ES-ES">
         <seg>Pero si te la sabes de memoria...</seg>
       </tuv>
-      <tuv lang="EN" changeid="Kalitro" changedate="20160527T173754Z" creationid="Kalitro" creationdate="20160527T173754Z">
-        <seg>But you already know it by heart...</seg>
+      <tuv lang="EN" changeid="IkanaPC" changedate="20160528T150746Z" creationid="Kalitro" creationdate="20160527T173754Z">
+        <seg>You already know it by heart!</seg>
       </tuv>
     </tu>
     <tu>
@@ -752,8 +760,8 @@
       <tuv lang="ES-ES">
         <seg>Se pasaba el día escribiendo sin parar para satisfacer las necesidades de sus lectores, desatendiendo las de sus seres &lt;t0/&gt;más &lt;t1/&gt;queridos.</seg>
       </tuv>
-      <tuv lang="EN" changeid="IkanaPC" changedate="20160528T122924Z" creationid="Kalitro" creationdate="20160527T174626Z">
-        <seg>He spent his days writing non-stop, in order to fulfill his readers needs, neglecting the ones from his own loved ones.&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="EN" changeid="IkanaPC" changedate="20160528T150734Z" creationid="Kalitro" creationdate="20160527T174626Z">
+        <seg>He spent his days writing non-stop, in order to fulfill his readers needs, neglecting the ones from his own loved ones.</seg>
       </tuv>
     </tu>
     <tu>
