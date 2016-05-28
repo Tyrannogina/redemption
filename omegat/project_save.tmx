@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="ES-ES">
+        <seg>Basta ya, Paz.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T110222Z" creationid="Kalitro" creationdate="20160528T110222Z">
+        <seg>Stop it, Paz!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>Basta ya.</seg>
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T222726Z" creationid="Kalitro" creationdate="20160527T222726Z">
@@ -366,6 +374,14 @@
     </tu>
     <tu>
       <tuv lang="ES-ES">
+        <seg>No… &lt;t0/&gt;No&lt;t1/&gt; hay cena.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T110337Z" creationid="Kalitro" creationdate="20160528T110337Z">
+        <seg>There's... there's no dinner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>Oye, mira, s&lt;t0/&gt;iempre estás igual.</seg>
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T222325Z" creationid="Kalitro" creationdate="20160527T222325Z">
@@ -486,6 +502,14 @@
     </tu>
     <tu>
       <tuv lang="ES-ES">
+        <seg>Venga, olvidemos todo esto y vámonos a cenar de una vez.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T110248Z" creationid="Kalitro" creationdate="20160528T110248Z">
+        <seg>Come on, let's fortget bout it and let's have dinner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>Venga.</seg>
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T222120Z" creationid="Kalitro" creationdate="20160527T222120Z">
@@ -550,10 +574,26 @@
     </tu>
     <tu>
       <tuv lang="ES-ES">
+        <seg>¡Bebes demasiado!</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T110214Z" creationid="Kalitro" creationdate="20160528T110214Z">
+        <seg>You drink too much!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>¡Las pastillas te anulan!</seg>
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160528T103711Z" creationid="Kalitro" creationdate="20160528T103711Z">
         <seg>Pills nulify you!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>¡Los medicamentos hacen que no seas tú!</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T110204Z" creationid="Kalitro" creationdate="20160528T110204Z">
+        <seg>Medicins makes you a different person.</seg>
       </tuv>
     </tu>
     <tu>
@@ -602,6 +642,14 @@
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T180214Z" creationid="Kalitro" creationdate="20160527T180214Z">
         <seg>That's what you want for your daughter?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>¿No&lt;t0/&gt; hay cena?</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T110345Z" creationid="Kalitro" creationdate="20160528T110345Z">
+        <seg>There's no dinner?</seg>
       </tuv>
     </tu>
     <tu>
