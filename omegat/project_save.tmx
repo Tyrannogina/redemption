@@ -286,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="ES-ES">
+        <seg>Era la casa quien le hablaba...</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T121655Z" creationid="Kalitro" creationdate="20160528T121655Z">
+        <seg>It was the house who spoke to him.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>Está bien.</seg>
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T174210Z" creationid="Kalitro" creationdate="20160527T174210Z">
@@ -312,8 +320,8 @@
       <tuv lang="ES-ES">
         <seg>Hacía mucho que Pau Sintiempo no escuchaba ninguna voz, ni tan sólo la de su conciencia.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Kalitro" changedate="20160528T121033Z" creationid="Kalitro" creationdate="20160528T121033Z">
-        <seg>It was long that Pau Outoftime didn't listen to any voice, not even the one from his conscience.</seg>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T121544Z" creationid="Kalitro" creationdate="20160528T121033Z">
+        <seg>It was long that Pau Outoftime listened to no voice, not even the one from his conscience.</seg>
       </tuv>
     </tu>
     <tu>
@@ -346,6 +354,14 @@
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T174803Z" creationid="Kalitro" creationdate="20160527T174656Z">
         <seg>Pau Outoftime's wife who, in past times had been the prettiest and most lively girl of the place, had become an elusive and grim woman from the moment the doctors had diagnosed her with the sadness illness, which they didn't know anything, but they didn't hesitate to treat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>La voz le hablaba en un lenguaje que no conocía pero que, extrañamente, comprendía.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T121647Z" creationid="Kalitro" creationdate="20160528T121647Z">
+        <seg>The voice spoke in a language that he didn't knew, but, oddly, he could understand.</seg>
       </tuv>
     </tu>
     <tu>
@@ -506,6 +522,14 @@
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T174321Z" creationid="Kalitro" creationdate="20160527T174321Z">
         <seg>Pau Outoftime was his name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>Pero ese día, en la que había sido la habitación de su hij&lt;t0/&gt;a&lt;t1/&gt;, &lt;t2/&gt;escuchó&lt;t3/&gt; una que nunca se hubiera imaginado.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T121614Z" creationid="Kalitro" creationdate="20160528T121614Z">
+        <seg>But on that day, in the room that once belonged to his daughter, he listend a voice he never imagined.</seg>
       </tuv>
     </tu>
     <tu>
