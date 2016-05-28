@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaTN" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="ES-ES"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="ES-ES"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -32,8 +32,8 @@
       <tuv lang="ES-ES">
         <seg>&lt;t0/&gt;Paz… &lt;t1/&gt;Paz, tomas demasiados medicamentos y&lt;t2/&gt; no tod&lt;t3/&gt;o&lt;t4/&gt;s bajo prescripción médica, &lt;t5/&gt;tú lo sabes&lt;t6/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Kalitro" changedate="20160527T222809Z" creationid="Kalitro" creationdate="20160527T222809Z">
-        <seg>Paz… Paz, you take too many pills and not all of them under medical prescription, and you know it.</seg>
+      <tuv lang="EN" changeid="IkanaPC" changedate="20160528T122329Z" creationid="Kalitro" creationdate="20160527T222809Z">
+        <seg>Paz… Paz, you take too many pills and not all of them under medical prescription, and you know that.</seg>
       </tuv>
     </tu>
     <tu>
@@ -504,8 +504,8 @@
       <tuv lang="ES-ES">
         <seg>P&lt;t0/&gt;ues por lo menos estos cuadros que pinto, son lo ú&lt;t1/&gt;nico que me hace sentir viva.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Kalitro" changedate="20160527T222641Z" creationid="Kalitro" creationdate="20160527T222641Z">
-        <seg>At least, these paints I paint are the only thing that makes me feel alive.</seg>
+      <tuv lang="EN" changeid="IkanaPC" changedate="20160528T122300Z" creationid="Kalitro" creationdate="20160527T222641Z">
+        <seg>At least, these paintings I paint are the only thing that makes me feel alive.</seg>
       </tuv>
     </tu>
     <tu>
@@ -768,8 +768,8 @@
       <tuv lang="ES-ES">
         <seg>¡Los medicamentos hacen que no seas tú!</seg>
       </tuv>
-      <tuv lang="EN" changeid="Kalitro" changedate="20160528T110204Z" creationid="Kalitro" creationdate="20160528T110204Z">
-        <seg>Medicins makes you a different person.</seg>
+      <tuv lang="EN" changeid="IkanaPC" changedate="20160528T122338Z" creationid="Kalitro" creationdate="20160528T110204Z">
+        <seg>Medicines makes you a different person.</seg>
       </tuv>
     </tu>
     <tu>
