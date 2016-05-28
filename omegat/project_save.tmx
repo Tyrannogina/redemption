@@ -40,8 +40,8 @@
       <tuv lang="ES-ES">
         <seg>&lt;t0/&gt;Est&lt;t1/&gt;oy bien.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Kalitro" changedate="20160527T183838Z" creationid="Kalitro" creationdate="20160527T183838Z">
-        <seg>No. I am fine.</seg>
+      <tuv lang="EN" changeid="IkanaPC" changedate="20160528T154055Z" creationid="Kalitro" creationdate="20160527T183838Z">
+        <seg>I am fine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -248,8 +248,8 @@
       <tuv lang="ES-ES">
         <seg>Ay, Lis.&lt;t0/&gt; Hoy no &lt;t1/&gt;puedo&lt;t2/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Kalitro" changedate="20160527T220931Z" creationid="Kalitro" creationdate="20160527T220931Z">
-        <seg>Ah, Lis. Not today. </seg>
+      <tuv lang="EN" changeid="IkanaPC" changedate="20160528T154114Z" creationid="Kalitro" creationdate="20160527T220931Z">
+        <seg>Ah, Lis. I can't today. </seg>
       </tuv>
     </tu>
     <tu>
@@ -488,8 +488,8 @@
       <tuv lang="ES-ES">
         <seg>Mañana... ¿vale?</seg>
       </tuv>
-      <tuv lang="EN" changeid="Kalitro" changedate="20160527T220952Z" creationid="Kalitro" creationdate="20160527T220952Z">
-        <seg>Tomorror... ok?</seg>
+      <tuv lang="EN" changeid="IkanaPC" changedate="20160528T154140Z" creationid="Kalitro" creationdate="20160527T220952Z">
+        <seg>Tomorrow... ok?</seg>
       </tuv>
     </tu>
     <tu>
@@ -937,8 +937,8 @@
       <tuv lang="ES-ES">
         <seg>Venga… Up!</seg>
       </tuv>
-      <tuv lang="EN" changeid="Kalitro" changedate="20160527T180947Z" creationid="Kalitro" creationdate="20160527T180947Z">
-        <seg>Come on... Hop!</seg>
+      <tuv lang="EN" changeid="IkanaPC" changedate="20160528T154021Z" creationid="Kalitro" creationdate="20160527T180947Z">
+        <seg>Come on... Oop!</seg>
       </tuv>
     </tu>
     <tu>
@@ -1017,8 +1017,8 @@
       <tuv lang="ES-ES">
         <seg>Ya… Pues es que hoy no puedo.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Kalitro" changedate="20160527T221020Z" creationid="Kalitro" creationdate="20160527T221020Z">
-        <seg>Well, I cannot do it tonight. </seg>
+      <tuv lang="EN" changeid="IkanaPC" changedate="20160528T154222Z" creationid="Kalitro" creationdate="20160527T221020Z">
+        <seg>Well, I can't tonight. </seg>
       </tuv>
     </tu>
     <tu>
@@ -1121,8 +1121,8 @@
       <tuv lang="ES-ES">
         <seg>¡¡El cuento!!</seg>
       </tuv>
-      <tuv lang="EN" changeid="Kalitro" changedate="20160527T220859Z" creationid="Kalitro" creationdate="20160527T220859Z">
-        <seg>The tale!!!</seg>
+      <tuv lang="EN" changeid="IkanaPC" changedate="20160528T154101Z" creationid="Kalitro" creationdate="20160527T220859Z">
+        <seg>The tale!!</seg>
       </tuv>
     </tu>
     <tu>
@@ -1145,8 +1145,8 @@
       <tuv lang="ES-ES">
         <seg>¿&lt;t0/&gt;Seguro que n&lt;t1/&gt;o te duele nada?</seg>
       </tuv>
-      <tuv lang="EN" changeid="Kalitro" changedate="20160527T181014Z" creationid="Kalitro" creationdate="20160527T181014Z">
-        <seg>Are you sure? Nothing hurts you?</seg>
+      <tuv lang="EN" changeid="IkanaPC" changedate="20160528T154049Z" creationid="Kalitro" creationdate="20160527T181014Z">
+        <seg>Are you sure nothing hurts?</seg>
       </tuv>
     </tu>
     <tu>
