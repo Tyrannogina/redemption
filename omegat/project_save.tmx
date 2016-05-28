@@ -623,11 +623,13 @@
       </tuv>
     </tu>
     <tu>
+      <note>he puesto en los subs:
+Don't expect me for dinner. </note>
       <tuv lang="ES-ES">
         <seg>Oye, Paz, p&lt;t0/&gt;ensaba que tendr ías la decencia de venir a la entrega de premios, pero veo que... (unos segundos de silencio) &lt;t1/&gt;Bah, d&lt;t2/&gt;éjalo.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Kalitro" changedate="20160528T113310Z" creationid="Kalitro" creationdate="20160528T113310Z">
-        <seg>Listen, Paz, I though that you'd had the decency of coming to the awards event, but it seems that... Bah, just leave it...</seg>
+      <tuv lang="EN" changeid="IkanaPC" changedate="20160528T171600Z" creationid="Kalitro" creationdate="20160528T113310Z">
+        <seg>Listen, Paz, I though that you'd had the decency of coming to the awards event, but I can see that... Bah, just leave it...</seg>
       </tuv>
     </tu>
     <tu>
@@ -682,8 +684,8 @@
       <tuv lang="ES-ES">
         <seg>Pero ese día, en la que había sido la habitación de su hij&lt;t0/&gt;a&lt;t1/&gt;, &lt;t2/&gt;escuchó&lt;t3/&gt; una que nunca se hubiera imaginado.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Kalitro" changedate="20160528T121614Z" creationid="Kalitro" creationdate="20160528T121614Z">
-        <seg>But on that day, in the room that once belonged to his daughter, he listend a voice he never imagined.</seg>
+      <tuv lang="EN" changeid="IkanaPC" changedate="20160528T171720Z" creationid="Kalitro" creationdate="20160528T121614Z">
+        <seg>But on that day, in the room that once belonged to his daughter, he listened a voice he never imagined.</seg>
       </tuv>
     </tu>
     <tu>
