@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="ES-ES">
+        <seg>(Paz asiente) &lt;t0/&gt;Tómate algo, ¿no&lt;t1/&gt;?</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T144029Z" creationid="Kalitro" creationdate="20160528T144029Z">
+        <seg>Won't you take something?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>&lt;t0/&gt;Encima es esta mañana todavía tenía fiebre.</seg>
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160528T103646Z" creationid="Kalitro" creationdate="20160528T103646Z">
@@ -202,6 +210,14 @@
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T222340Z" creationid="Kalitro" creationdate="20160527T222340Z">
         <seg>At first everything seemed wonderful to you.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>Algún día le ayudará a digerir la verdad... como a mí.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T144000Z" creationid="Kalitro" creationdate="20160528T144000Z">
+        <seg>Some day it will help her to accept the truth... the same as me.</seg>
       </tuv>
     </tu>
     <tu>
@@ -734,6 +750,14 @@
     </tu>
     <tu>
       <tuv lang="ES-ES">
+        <seg>Sí, estaba pensando en eso ahora mismo.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T144041Z" creationid="Kalitro" creationdate="20160528T144041Z">
+        <seg>Yes, I was just thinking about it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
         <seg>Sí.</seg>
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160528T141311Z" creationid="Kalitro" creationdate="20160528T141311Z">
@@ -866,6 +890,14 @@
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160528T130047Z" creationid="Kalitro" creationdate="20160528T110708Z">
         <seg>And so, day after day, Pau Outoftime relationship with his wife shattered.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>Y la garganta... ¿aún te duele?</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T144010Z" creationid="Kalitro" creationdate="20160528T144010Z">
+        <seg>Is your throat still sore?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1162,6 +1194,14 @@
       </tuv>
       <tuv lang="EN" changeid="Kalitro" changedate="20160527T174912Z" creationid="Kalitro" creationdate="20160527T174912Z">
         <seg>Is she feverish?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-ES">
+        <seg>¿Tienes que contarle siempre la misma historia?</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Kalitro" changedate="20160528T143920Z" creationid="Kalitro" creationdate="20160528T143920Z">
+        <seg>You have to tell her always the same story?</seg>
       </tuv>
     </tu>
     <tu>
